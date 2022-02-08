@@ -13,7 +13,7 @@
 	</parent>
     <properties>
       <jib-maven-plugin.version>3.1.1</jib-maven-plugin.version>
-   <docker.image.prefix>wingtiptoysregistry.azurecr.io</docker.image.prefix>
+   <docker.image.prefix>reactivespringboot.azurecr.io</docker.image.prefix>
         <java.version>11</java.version>
     </properties>
 	<dependencies>
